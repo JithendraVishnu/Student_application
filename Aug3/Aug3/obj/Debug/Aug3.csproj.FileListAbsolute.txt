@@ -1,0 +1,10 @@
+C:\Users\vishnu\source\repos\Aug3\Aug3\bin\Debug\Aug3.exe.config
+C:\Users\vishnu\source\repos\Aug3\Aug3\bin\Debug\Aug3.exe
+C:\Users\vishnu\source\repos\Aug3\Aug3\bin\Debug\Aug3.pdb
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.csprojAssemblyReference.cache
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.Form1.resources
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.Properties.Resources.resources
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.csproj.GenerateResource.cache
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.csproj.CoreCompileInputs.cache
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.exe
+C:\Users\vishnu\source\repos\Aug3\Aug3\obj\Debug\Aug3.pdb
